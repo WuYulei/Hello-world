@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiy.Web", "Tiy.Web\Tiy.Web.csproj", "{764B8BD3-4C9F-4078-AF1C-A05B1229113C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiy.Service", "Tiy.Service\Tiy.Service.csproj", "{4DE12163-A9DE-47C0-8F60-E7D3BCD895A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiy.Entity", "Tiy.Entity\Tiy.Entity.csproj", "{AAAA9FB8-C79B-4DCC-9359-953D155B4343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764B8BD3-4C9F-4078-AF1C-A05B1229113C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764B8BD3-4C9F-4078-AF1C-A05B1229113C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764B8BD3-4C9F-4078-AF1C-A05B1229113C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764B8BD3-4C9F-4078-AF1C-A05B1229113C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE12163-A9DE-47C0-8F60-E7D3BCD895A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE12163-A9DE-47C0-8F60-E7D3BCD895A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE12163-A9DE-47C0-8F60-E7D3BCD895A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE12163-A9DE-47C0-8F60-E7D3BCD895A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAA9FB8-C79B-4DCC-9359-953D155B4343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAA9FB8-C79B-4DCC-9359-953D155B4343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAA9FB8-C79B-4DCC-9359-953D155B4343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAA9FB8-C79B-4DCC-9359-953D155B4343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
